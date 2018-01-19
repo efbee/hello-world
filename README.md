@@ -1,2 +1,2 @@
 # hello-world
-practice run
+This is for my software engineering project.
